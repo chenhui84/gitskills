@@ -1,9 +1,2 @@
-ded line
->>>>>>> feature1
-=======
+final 
 
-dded s
-sls>>>>>> Stashed changes
-=======
-bugfix
->>>>>>> issue-101
