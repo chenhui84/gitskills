@@ -1,12 +1,9 @@
-
-sell# gitskills是是是
-=======
-hel
-l# gitskills是是是
-<<<<<<< Updated upstream
-added line
+ded line
 >>>>>>> feature1
 =======
 
 dded s
 sls>>>>>> Stashed changes
+=======
+bugfix
+>>>>>>> issue-101
